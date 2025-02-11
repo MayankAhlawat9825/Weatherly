@@ -1,0 +1,21 @@
+:root{
+  --background-color:rgb(56, 189, 248);
+  --text-color:black;
+}
+
+[data-theme="dark"]{
+  --background-color:rgb(156, 163, 175);
+  --text-color:white;
+}
+
+
+#root {
+  /* max-width: 100vh; */
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: var(--background-color);
+  color:var(--text-color);
+}
+
+

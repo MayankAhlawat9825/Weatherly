@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* body{
+    background-color: var(--background-color);
+    color:var(--text-color);
+} */
+
+body{
+    height: 100vh;
+}
