@@ -30,20 +30,14 @@ A simple and elegant weather application built with React and Vite that fetches 
    ```sh
    npm install
    ```
-
-3. Get an API key from [OpenWeatherMap](https://openweathermap.org/api) and create a `.env` file in the root directory:
-
-   ```env
-   VITE_WEATHER_API_KEY=your_api_key_here
-   ```
-
-4. Start the development server:
+   
+3. Start the development server:
 
    ```sh
    npm run dev
    ```
 
-5. Open the application in your browser:
+4. Open the application in your browser:
 
    ```sh
    http://localhost:5173
